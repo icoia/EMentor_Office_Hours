@@ -8,6 +8,12 @@
 <strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+| Row 3    | Data 5   | Data 6   |
+
 [View the project calendar here](https://calendar.google.com/calendar/u/6/r/month/2025/3/1?cid=Mjk3MDE5ZjkxZjc5NjdhNWMwZmMyYmMyMGM5NmY4ZTU3ODZjMzhhODYzMWVkOTg1YjRjY2NiZjM2YTg4NzQyYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)
 
 
