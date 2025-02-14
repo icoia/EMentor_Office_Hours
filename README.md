@@ -10,7 +10,7 @@
 
 | Academic Field | Area of Expertise | Office Hours |
 |----------------|-------------------|--------------|
-| Architecture   | <ul><li>Science and Mathematics</li> | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
+| Architecture   | <ul><li>Science and Mathematics</li> | <ul><li>[Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)</ul></li>|
 |                | <li>General feedback in similar fields</li></ul> | |
 
 | Bioinformatics             | [Calendar](https://calendar.google.com/calendar/u/6?cid=NzA0YjQ0NzZjMmQ5YTNiZjA0Yjk4ZmY2MDkwYzdkYWVjMzE1YjI3OGFmZGVjYThmNDRkMTA4ZWQzOTBjMTY3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
