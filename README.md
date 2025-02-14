@@ -13,7 +13,10 @@
 | Academic Field | Area of Expertise | Office Hours | Anticipated Start | Note |
 |----------------|-------------------|--------------|-------------------|------|
 | Architecture   |- Architecture theory<br>- Race and ethnicity studies<br>- Design activism<br>- Social and environmental justice in the built environment<br>- General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=27d647f9ebb4e1a4584024d4466544f51ed923315e7d39cba25e37ee4897da15%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | March 2025 |
-| Bioinformatics | Microbiome<br>Data analysis<br>R<br>General feedback | [Calendar](https://calendar.google.com/calendar/embed?src=704b4476c2d9a3bf04b98ff6090c7daec315b278afdeca8f44d108ed390c167d%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | May 2025 |
+| Bioinformatics | - Microbiome
+- Data analysis
+- R
+- General feedback | [Calendar](https://calendar.google.com/calendar/embed?src=704b4476c2d9a3bf04b98ff6090c7daec315b278afdeca8f44d108ed390c167d%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | May 2025 |
 | Business and Management | Marketing<br>Strategy<br>Leadership | [Calendar](https://calendar.google.com/calendar/embed?src=90975d2636ae55b0541d8243262c9a751a88772027307e20d16bf04497e4df09%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | March 2025 |
 | Civil Engineering | Civil Engineering<br>Structural Engineering<br>Geotechnical Engineering<br>General feedback | [Calendar](https://calendar.google.com/calendar/embed?src=3a54587f746c9b493feb5ead8a50437e32b507a7aa29cb9ceab2ed7d7e2f9694%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | Mid-March 2025 |
 | City planning | Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=27d647f9ebb4e1a4584024d4466544f51ed923315e7d39cba25e37ee4897da15%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | March 2025 |
