@@ -10,11 +10,14 @@
 
 | Academic Field                                               | Office Hours |
 |--------------------------------------------------------------|--------------|
-| Environmental Design (Architecture and City planning)        | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
-| Row 2    | Data 3   | Data 4   |
-| Row 3    | Data 5   | Data 6   |
+| Architecture            | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
+| City planning           | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
+| Computer Science        | [Calendar](https://calendar.google.com/calendar/u/6?cid=MTM3Mzc3MWI4ZWNlYWEzOTg1NjQ2ZGNlYTU4MGIzMzEwZGMyNTIzYmRhYTViYjExMzNmMTA0OTY4MzA0MjZlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 
-[View the project calendar here](https://calendar.google.com/calendar/u/6/r/month/2025/3/1?cid=Mjk3MDE5ZjkxZjc5NjdhNWMwZmMyYmMyMGM5NmY4ZTU3ODZjMzhhODYzMWVkOTg1YjRjY2NiZjM2YTg4NzQyYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)
+| Environmental Design    | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
+ 
+
+
 
 
 # Call for Iranian Academics
