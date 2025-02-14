@@ -26,12 +26,9 @@
 | Microbial Ecology | Microbiome<br>Data analysis<br>R<br>General feedback | [Calendar](https://calendar.google.com/calendar/u/6?cid=NzA0YjQ0NzZjMmQ5YTNiZjA0Yjk4ZmY2MDkwYzdkYWVjMzE1YjI3OGFmZGVjYThmNDRkMTA4ZWQzOTBjMTY3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Political Philosophy | Religion<br>Ethics<br>International relations<br>Middle East security environment<br>Human rights<br>Human security<br>SDGs<br>Politics<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=Mjk3MDE5ZjkxZjc5NjdhNWMwZmMyYmMyMGM5NmY4ZTU3ODZjMzhhODYzMWVkOTg1YjRjY2NiZjM2YTg4NzQyYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 
-
-
- 
-
-
-
+<p id="mentees"> 
+<strong>_Important Note for Mentees:</strong>strong> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions._ 
+</p>
 
 # Call for Iranian Academics
 
