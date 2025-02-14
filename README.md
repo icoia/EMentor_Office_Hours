@@ -13,8 +13,10 @@
 
 <p id="call">
 Are you an Iranian academic passionate about empowering the next generation of Iranian academics? Join our mentorship program to help students and early career researchers (ECR) improve their CVs, strengthen student applications (e.g., for graduate studies or awards) or faculty job applications, and build their professional profiles.
+</p>
 
-Interested in Mentoring? Please fill out <a href="https://forms.gle/BxQdRLpsPhzMFyok7">this form</a>.
+<p id="mentor">
+<strong>Interested in mentoring?</strong> Please fill out <a href="https://forms.gle/BxQdRLpsPhzMFyok7">this form</a>.
 </p>
 
 <p id="disclaim">
