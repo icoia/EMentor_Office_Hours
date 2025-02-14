@@ -30,7 +30,7 @@
 <h4 id="imp"><strong>Important Note for Mentees:</strong></h4> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions.
 </p>
 
-<p></p>
+<br>
 <h2 id="call">Call for Iranian Academics</h2>
 
 <p id="callText">
