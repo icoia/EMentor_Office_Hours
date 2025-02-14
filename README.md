@@ -10,10 +10,8 @@
 
 | Academic Field | Area of Expertise | Office Hours |
 |----------------|-------------------|--------------|
-| Architecture   | <ul><li>Science and Mathematics</li> | <ul><li>[Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)</ul></li>|
-|                | <li>General feedback in similar fields</li></ul> | |
-
-| Bioinformatics             | [Calendar](https://calendar.google.com/calendar/u/6?cid=NzA0YjQ0NzZjMmQ5YTNiZjA0Yjk4ZmY2MDkwYzdkYWVjMzE1YjI3OGFmZGVjYThmNDRkMTA4ZWQzOTBjMTY3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
+| Architecture   |  | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
+| Bioinformatics | Science and Mathematics<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=NzA0YjQ0NzZjMmQ5YTNiZjA0Yjk4ZmY2MDkwYzdkYWVjMzE1YjI3OGFmZGVjYThmNDRkMTA4ZWQzOTBjMTY3ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Business and Management    | [Calendar](https://calendar.google.com/calendar/u/6?cid=OTA5NzVkMjYzNmFlNTViMDU0MWQ4MjQzMjYyYzlhNzUxYTg4NzcyMDI3MzA3ZTIwZDE2YmYwNDQ5N2U0ZGYwOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Civil Engineering          | [Calendar](https://calendar.google.com/calendar/u/6?cid=M2E1NDU4N2Y3NDZjOWI0OTNmZWI1ZWFkOGE1MDQzN2UzMmI1MDdhN2FhMjljYjljZWFiMmVkN2Q3ZTJmOTY5NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | City planning              | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
