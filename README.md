@@ -18,8 +18,8 @@ Interested in Mentoring? Please fill out <a href="https://forms.gle/BxQdRLpsPhzM
 </p>
 
 <p id="disclaim">
-<strong>Disclaimer:</strong>ICOIA will serve solely as a facilitator, connecting mentors and mentees. The mentorship activities will not be conducted under ICOIA’s name, and the structure and management of the mentor-mentee relationship will be entirely up to the individuals involved.
+<strong>Disclaimer:</strong> ICOIA will serve solely as a facilitator, connecting mentors and mentees. The mentorship activities will not be conducted under ICOIA’s name, and the structure and management of the mentor-mentee relationship will be entirely up to the individuals involved.
 </p>
 <p id="note">
-<strong>Note:</strong>Mentors may withdraw their volunteering for the next period of mentorship by emailing <a href="mailto:{{icoia.onlineschool@gmail.com}}">ICOIA Online School</a>.
+<strong>Note:</strong> Mentors may withdraw their volunteering for the next period of mentorship by emailing <a href="mailto:{{icoia.onlineschool@gmail.com}}">ICOIA Online School</a>.
 </p>
