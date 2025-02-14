@@ -2,8 +2,8 @@
 
 <h3 id="details">Program Details:</h3>
 <p id="format">
-<strong>Mentorship Format:</strong>strong> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
-Role of Mentors: Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
+<strong>Mentorship Format:</strong> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
+<strong>Role of Mentors:/strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
 
@@ -17,5 +17,5 @@ Interested in Mentoring? Please fill out <a href="https://forms.gle/BxQdRLpsPhzM
 <p id="disclaim">Disclaimer:</strong>
 ICOIA will serve solely as a facilitator, connecting mentors and mentees. The mentorship activities will not be conducted under ICOIA’s name, and the structure and management of the mentor-mentee relationship will be entirely up to the individuals involved.
 
-Mentors may withdraw their volunteering for the next period of mentorship by emailing <a href="icoia.onlineschool@gmail.com">ICOIA Online School</a>.
+Mentors may withdraw their volunteering for the next period of mentorship by emailing <a href="mailto:{{icoia.onlineschool@gmail.com}}">ICOIA Online School</a>.
 </p>
