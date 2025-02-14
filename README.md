@@ -1,11 +1,11 @@
 # E-Mentor Office Hours
 
-<h3 id="details">Program Details</h3>
+<h2 id="details">Program Details</h2>
 <p id="format">
 <h4 id="format"><strong>Mentorship Format:</strong></h4> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
 </p>  
 <p id="role">
-<strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
+<h4 id="role"><strong>Role of Mentors:</strong></h4> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
 <h2 id="avail">Available Mentors</h2>
@@ -27,7 +27,7 @@
 | Political Philosophy | Religion<br>Ethics<br>International relations<br>Middle East security environment<br>Human rights<br>Human security<br>SDGs<br>Politics<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=Mjk3MDE5ZjkxZjc5NjdhNWMwZmMyYmMyMGM5NmY4ZTU3ODZjMzhhODYzMWVkOTg1YjRjY2NiZjM2YTg4NzQyYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 
 <p id="mentees"> 
-<strong>Important Note for Mentees:</strong> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions.
+<h4 id="imp"><strong>Important Note for Mentees:</strong></h4> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions.
 </p>
 
 <h2 id="call">Call for Iranian Academics</h2>
@@ -37,12 +37,12 @@ Are you an Iranian academic passionate about empowering the next generation of I
 </p>
 
 <p id="mentor">
-<strong>Interested in mentoring?</strong> Please fill out <a href="https://forms.gle/BxQdRLpsPhzMFyok7">this form</a>.
+<h4 id="mentorText"><strong>Interested in becoming a mentor?</strong></h4> Please fill out <a href="https://forms.gle/BxQdRLpsPhzMFyok7">this form</a>.
 </p>
 
 <p id="disclaim">
-<strong>Disclaimer:</strong> ICOIA will serve solely as a facilitator, connecting mentors and mentees. The mentorship activities will not be conducted under ICOIA’s name, and the structure and management of the mentor-mentee relationship will be entirely up to the individuals involved.
+<h4 id="disText"><strong>Disclaimer:</strong></h4> ICOIA will serve solely as a facilitator, connecting mentors and mentees. The mentorship activities will not be conducted under ICOIA’s name, and the structure and management of the mentor-mentee relationship will be entirely up to the individuals involved.
 </p>
 <p id="note">
-<strong>Note:</strong> Mentors may withdraw their volunteering for the next period of mentorship by emailing <a href="mailto:{{icoia.onlineschool@gmail.com}}">ICOIA Online School</a>.
+<h4 id="noteText"><strong>Note:</strong></h4> Mentors may withdraw their volunteering for the next period of mentorship by emailing <a href="mailto:{{icoia.onlineschool@gmail.com}}">ICOIA Online School</a>.
 </p>
