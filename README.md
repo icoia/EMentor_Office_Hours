@@ -8,9 +8,9 @@
 <strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1    | Data 1   | Data 2   |
+| Academic Field                                 | Office Hours |
+|------------------------------------------------|--------------|
+| Architecture and Environmental Design          | [Availability](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Row 2    | Data 3   | Data 4   |
 | Row 3    | Data 5   | Data 6   |
 
