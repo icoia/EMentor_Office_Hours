@@ -2,7 +2,7 @@
 
 <h3 id="details">Program Details</h3>
 <p id="format">
-<strong>Mentorship Format:</strong> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
+<h4 id="format"><strong>Mentorship Format:</strong></h4> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
 </p>  
 <p id="role">
 <strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
@@ -18,7 +18,7 @@
 | Civil Engineering | Civil Engineering<br>Structural Engineering<br>Geotechnical Engineering<br>General feedback | [Calendar](https://calendar.google.com/calendar/u/6?cid=M2E1NDU4N2Y3NDZjOWI0OTNmZWI1ZWFkOGE1MDQzN2UzMmI1MDdhN2FhMjljYjljZWFiMmVkN2Q3ZTJmOTY5NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | City planning | Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Computer Science | Science and Mathematics<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=MTM3Mzc3MWI4ZWNlYWEzOTg1NjQ2ZGNlYTU4MGIzMzEwZGMyNTIzYmRhYTViYjExMzNmMTA0OTY4MzA0MjZlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
-| Construction Engineering and Digitalization | General feedback | [Calendar](https://calendar.google.com/calendar/u/6?cid=ZjUxYTFmNWY3NDgyZDlhZGM2YzlkM2U3N2JmODQ4MDIxZDE2MGU1OTI5ZmFkMDE5MjFkNmY5ZmMwNmVhODJjMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)| _The mentor has requested to schedule a meeting instead of holding office hours.<br><br>Please note that the suggested time is flexible and not yet confirmed._ |
+| Construction Engineering and Digitalization | General feedback | [Calendar](https://calendar.google.com/calendar/u/6?cid=ZjUxYTFmNWY3NDgyZDlhZGM2YzlkM2U3N2JmODQ4MDIxZDE2MGU1OTI5ZmFkMDE5MjFkNmY5ZmMwNmVhODJjMkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)| _The mentor has requested to schedule a meeting instead of holding office hours.<br>Please note that the suggested time is flexible and not yet confirmed._ |
 | Environmental Design | Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Environmental Microbiology | Fungal ecology<br>Biotechnology<br>Biostatistics<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=NDUxOTAwMmFjNzAxZDk0ZTg1Y2QyNmMwMzFhOGRmZWY5MDdhN2VhMWQ1ZDA5NTljMjczYzhiMmI5ZWQ4OGQ3OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 | Management | Entrepreneurship<br>Innovation<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/u/6?cid=M2Q2YTA1ZTU2MjdhYmMxNDM2OWYyYmRiNDc0OTk3N2Q0NDYyNGYzNmM4ZDhkMTk1YmVjYTQyYjQ3YTUwYjM4MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
