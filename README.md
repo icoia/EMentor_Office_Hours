@@ -8,7 +8,7 @@
 <strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
-# Available Mentors
+<h2 id="avail">Available Mentors</h2>
 
 | Academic Field | Area of Expertise | Office Hours | Note |
 |----------------|-------------------|--------------|------|
@@ -30,9 +30,9 @@
 <strong>Important Note for Mentees:</strong> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions.
 </p>
 
-# Call for Iranian Academics
+<h2 id="call">Call for Iranian Academics</h2>
 
-<p id="call">
+<p id="callText">
 Are you an Iranian academic passionate about empowering the next generation of Iranian academics? Join our mentorship program to help students and early career researchers (ECR) improve their CVs, strengthen student applications (e.g., for graduate studies or awards) or faculty job applications, and build their professional profiles.
 </p>
 
