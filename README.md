@@ -8,8 +8,8 @@
 <strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
-| Academic Field             | Area of Expertise                                            | Office Hours |
-|----------|----------|----------|
+| Academic Field | Area of Expertise | Office Hours |
+|----------------|-------------------|--------------|
 
 | Architecture               | Science and Mathematics, General feedback in similar fields  | [Calendar](https://calendar.google.com/calendar/u/6?cid=MjdkNjQ3ZjllYmI0ZTFhNDU4NDAyNGQ0NDY2NTQ0ZjUxZWQ5MjMzMTVlN2QzOWNiYTI1ZTM3ZWU0ODk3ZGExNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t=your_calendar_link)|
 
