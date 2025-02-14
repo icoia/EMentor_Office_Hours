@@ -1,10 +1,8 @@
-#title-heading: false
-#remote_theme: pages-themes/hacker@v0.2.0
-#plugins:
-#- jekyll-remote-theme
+title-heading: false
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
-show_downloads: false
 
-theme: jekyll-theme-cayman
