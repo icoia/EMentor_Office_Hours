@@ -1,7 +1,11 @@
-show_downloads: false
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
 #gem "github-pages", group: :jekyll_plugins
-title: null
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
