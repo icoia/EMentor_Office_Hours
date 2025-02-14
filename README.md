@@ -1,4 +1,4 @@
-<img src="logo_final.png" width="100" align="right">
+<img src="logo_final_white_background.png" width="100" align="right">
 <h1 id="title">E-Mentor Office Hours</h1>
 <h2 id="details">Program Details</h2>
 <p id="format">
