@@ -1,4 +1,4 @@
-# E-Mentor Office Hour 
+# E-Mentor Office Hours
 
 <h3 id="details">Program Details</h3>
 <p id="format">
