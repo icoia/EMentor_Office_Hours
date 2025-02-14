@@ -8,6 +8,8 @@
 <strong>Role of Mentors:</strong> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
+[View the project calendar here](https://calendar.google.com/calendar/embed?src=your_calendar_link)
+
 
 # Call for Iranian Academics
 
