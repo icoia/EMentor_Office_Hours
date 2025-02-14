@@ -2,7 +2,7 @@
 
 <h2 id="details">Program Details</h2>
 <p id="format">
-<h4 id="format"><strong>Mentorship Format:</strong></h4> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
+<h4 id="format">Mentorship Format:</h4> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
 </p>  
 <p id="role">
 <h4 id="role"><strong>Role of Mentors:</strong></h4> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
