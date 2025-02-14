@@ -1,5 +1,5 @@
 # E-Mentor Office Hours
-<img src="images/icoia_full.webp" width="100" align="right">
+<img src="icoia_full.webp" width="200" align="right">
 
 <h2 id="details">Program Details</h2>
 <p id="format">
