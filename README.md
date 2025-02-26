@@ -12,7 +12,7 @@
 
 | Academic Field | Area of Expertise | Office Hours | Anticipated Start | Note |
 |----------------|-------------------|--------------|-------------------|------|
-| Bioinformatics | Machine Learning<br>Omics-analysis<br>Biology<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=b953d4e4aceb1e1a9b57556a5b86549cf80362028a14c575abe6b0de1c9f34a8%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | May 2025 |
+| Bioinformatics | Machine Learning<br>Omics-analysis<br>Biology<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=b953d4e4aceb1e1a9b57556a5b86549cf80362028a14c575abe6b0de1c9f34a8%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | March 2025 |
 | Business and Management | Marketing<br>Strategy<br>Leadership | [Calendar](https://calendar.google.com/calendar/embed?src=90975d2636ae55b0541d8243262c9a751a88772027307e20d16bf04497e4df09%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | March 2025 |
 | Civil Engineering (1) | Civil Engineering<br>Geotechnical Engineering (GeoHazards)<br>General feedback | [Calendar](https://calendar.google.com/calendar/embed?src=43c4415f828fd44fc9e484233ea0fa7721e5175df9c3a85d06074b2bbb27c967%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | March 2025 |
 | Civil Engineering (2) | Civil Engineering<br>Structural Engineering<br>Geotechnical Engineering<br>General feedback | [Calendar](https://calendar.google.com/calendar/embed?src=3a54587f746c9b493feb5ead8a50437e32b507a7aa29cb9ceab2ed7d7e2f9694%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | Mid-March 2025 |
