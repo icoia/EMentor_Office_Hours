@@ -1,5 +1,5 @@
 <img src="EMentorIcoia.png" width="400" align="right">
-<h1 id="title">E-Mentor Office Hours (EMentOH)</h1>
+<h1 id="title">E-Mentor Office Hours (EMentOHs)</h1>
 <h2 id="details">Program Details</h2>
 <p id="format">
 <h3 id="format">Mentorship Format:</h3> Mentors will hold online office hours on a bi-weekly or monthly schedule set by each mentor.
