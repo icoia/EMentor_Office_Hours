@@ -28,9 +28,9 @@
 <p id="mentees"> 
 <h3 id="imp">Important Note for Mentees:</h3> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions.
 </p>
+
 <br>
 <h2 id="call">Call for Iranian Academics</h2>
-
 <p id="callText">
 Are you an Iranian academic passionate about empowering the next generation of Iranian academics? Join our mentorship program to help students and early career researchers (ECR) improve their CVs, strengthen student applications (e.g., for graduate studies or awards) or faculty job applications, and build their professional profiles.
 </p>
