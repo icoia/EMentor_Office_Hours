@@ -18,7 +18,7 @@ An office-hour mentorship is a flexible and informal way for mentees to engage w
 
 | Academic Field | Mentor Code | Area of Expertise | Office Hours | Anticipated Start | Note | 
 |----------------|-------------|-------------------|--------------|-------------------|------|
-| <tr><td colspan="6"><strong>Architecture & Urban Planning</strong></td></tr> |  
+| <strong>Architecture & Urban Planning</strong> |  
 | Environmental Design (Architecture and City Planning) | AUP-01 | Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=27d647f9ebb4e1a4584024d4466544f51ed923315e7d39cba25e37ee4897da15%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | April 2025 |
 | <strong>Business & Management</strong> | 
 | Business and Management | BMG-01 | Marketing<br>Strategy<br>Leadership | [Calendar](https://calendar.google.com/calendar/embed?src=90975d2636ae55b0541d8243262c9a751a88772027307e20d16bf04497e4df09%40group.calendar.google.com&ctz=America%2FEdmonton=your_calendar_link) | April 2025 |
