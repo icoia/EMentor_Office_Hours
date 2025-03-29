@@ -19,7 +19,7 @@ An office-hour mentorship is a flexible and informal way for mentees to engage w
 <table>
   <thead>
     <tr>
-      <th><Academic Field</th>
+      <th>Academic Field</th>
       <th>Mentor Code</th>
       <th>Area of Expertise</th>
       <th>Office Hours</th>
