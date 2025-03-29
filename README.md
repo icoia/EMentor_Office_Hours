@@ -14,6 +14,47 @@ An office-hour mentorship is a flexible and informal way for mentees to engage w
 <h3 id="role">Role of Mentors:</h3> Provide tailored feedback, share academic and professional insights, and guide mentees through application processes and career-building strategies during online sessions.
 </p>
 
+<table>
+  <thead>
+    <tr>
+      <th>Academic Field</th>
+      <th>Mentor Code</th>
+      <th>Area of Expertise</th>
+      <th>Office Hours</th>
+      <th>Anticipated Start</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="5"><strong>Architecture & Urban Planning</strong></td>
+    </tr>
+    <tr>
+      <td>Environmental Design (Architecture and City Planning)</td>
+      <td>AUP-01</td>
+      <td>Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields</td>
+      <td><a href="https://calendar.google.com/calendar/embed?src=27d647f9ebb4e1a4584024d4466544f51ed923315e7d39cba25e37ee4897da15%40group.calendar.google.com&ctz=Asia%2FTehran">Calendar</a></td>
+      <td>Now</td>
+    </tr>
+    <tr>
+      <td colspan="5"><strong>Business & Management</strong></td>
+    </tr>
+    <tr>
+      <td>Business and Management</td>
+      <td>BMG-01</td>
+      <td>Marketing<br>Strategy<br>Leadership</td>
+      <td><a href="https://calendar.google.com/calendar/embed?src=90975d2636ae55b0541d8243262c9a751a88772027307e20d16bf04497e4df09%40group.calendar.google.com&ctz=Asia%2FTehran">Calendar</a></td>
+      <td>Now</td>
+    </tr>
+    <tr>
+      <td>Management</td>
+      <td>BMG-02</td>
+      <td>Entrepreneurship<br>Innovation<br>General feedback in similar fields</td>
+      <td><a href="mailto:icoia.onlineschool@gmail.com">Request</a> the meeting link</td>
+      <td>Now</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2 id="avail">Available Mentors</h2>
 
 | Academic Field | Mentor Code | Area of Expertise | Office Hours | Anticipated Start | 
