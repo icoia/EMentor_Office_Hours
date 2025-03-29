@@ -1,10 +1,10 @@
-<img src="EMentorIcoia.png" width="400" align="right">
-<h1 id="title">E-Mentor Office Hours (EMentOHs)</h1>
-
 <p id="def">
 <h2 id="def">What is Office Hour Mentorship?</h2>
 An office-hour mentorship is a flexible and informal way for mentees to engage with experienced mentors for guidance, advice, and support. Unlike a structured long-term mentorship program, office hours offer drop-in or scheduled sessions where you can ask questions, seek feedback, and discuss your academic or career concerns.
 </p>
+
+<img src="EMentorIcoia.png" width="400" align="right">
+<h1 id="title">E-Mentor Office Hours (EMentOHs)</h1>
 
 <h2 id="details">Program Details</h2>
 <p id="format">
@@ -16,10 +16,10 @@ An office-hour mentorship is a flexible and informal way for mentees to engage w
 
 <h2 id="avail">Available Mentors</h2>
 
-| Academic Field | Mentor Code | Area of Expertise | Office Hours | Anticipated Start | 
-|----------------|-------------|-------------------|--------------|-------------------|
-| <strong>"Architecture & Urban Planning"</strong> |  
-| Environmental Design (Architecture and City Planning) | AUP-01 | Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=27d647f9ebb4e1a4584024d4466544f51ed923315e7d39cba25e37ee4897da15%40group.calendar.google.com&ctz=Asia%2FTehran=your_calendar_link) | Now |
+| Academic Field | Mentor Code | Area of Expertise | Office Hours | Anticipated Start  
+|----------------|-------------|-------------------|--------------|-------------------
+| <tr><p style="text-align: center;"><td colspan=5><strong>Architecture & Urban Planning</strong></td></tr>   
+| Environmental Design (Architecture and City Planning) | AUP-01 | Architecture theory<br>Race and ethnicity studies<br>Design activism<br>Social and environmental justice in the built environment<br>General feedback in similar fields | [Calendar](https://calendar.google.com/calendar/embed?src=27d647f9ebb4e1a4584024d4466544f51ed923315e7d39cba25e37ee4897da15%40group.calendar.google.com&ctz=Asia%2FTehran=your_calendar_link) | Now 
 | <strong>"Business & Management"</strong> | 
 | Business and Management | BMG-01 | Marketing<br>Strategy<br>Leadership | [Calendar](https://calendar.google.com/calendar/embed?src=90975d2636ae55b0541d8243262c9a751a88772027307e20d16bf04497e4df09%40group.calendar.google.com&ctz=Asia%2FTehran=your_calendar_link) | Now |
 | Management | BMG-02 | Entrepreneurship<br>Innovation<br>General feedback in similar fields | <!--_[Calendar](https://calendar.google.com/calendar/embed?src=3d6a05e5627abc14369f2bdb4749977d44624f36c8d8d195beca42b47a50b381%40group.calendar.google.com&ctz=Asia%2FTehran=your_calendar_link)_--> <a href="mailto:{{icoia.onlineschool@gmail.com}}">Request</a> the meeting link | Now |
