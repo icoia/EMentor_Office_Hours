@@ -137,6 +137,10 @@ An office-hour mentorship is a flexible and informal way for mentees to engage w
 <h3 id="imp">Important Note for Mentees:</h3> Please note that mentorship is NOT part of any university admission process or visa application. Mentors are here solely to guide you and answer your questions.
 </p>
 
+<p id="register"> 
+<h2 id="reg">Registration:</h2> Complete <a href="https://forms.gle/T3NyRsoDUT2hdr1a6">this form</a> to access the information about mentors' availability and contact methods.
+</p>
+
 <br>
 <h2 id="call">Call for Iranian Academics</h2>
 <p id="callText">
