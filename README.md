@@ -139,6 +139,7 @@ An office-hour mentorship is a flexible and informal way for mentees to engage w
 
 <p id="register"> 
 <h2 id="reg">Registration:</h2> Complete <a href="https://forms.gle/T3NyRsoDUT2hdr1a6">this form</a> to access the information about mentors' availability and contact methods.
+  If you have any questions about the program, please contact us via <a href="mailto:{{icoia.onlineschool@gmail.com}}">email</a>.
 </p>
 
 <br>
