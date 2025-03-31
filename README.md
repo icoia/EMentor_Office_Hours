@@ -1,5 +1,7 @@
-<img src="EMentorIcoia.png" width="400" align="right">
 <h1 id="title">E-Mentor Office Hours (EMentOHs)</h1>
+
+<img src="EMentorIcoia.png" width="400" align="right">
+
 
 <p id="def">
 <h2 id="def">What is Office Hour Mentorship?</h2>
