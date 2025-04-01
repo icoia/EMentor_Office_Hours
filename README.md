@@ -5,7 +5,7 @@
 An office-hour mentorship is a flexible and informal way for mentees to engage with experienced mentors for guidance, advice, and support. Unlike a structured long-term mentorship program, office hours offer drop-in or scheduled sessions where you can ask questions, seek feedback, and discuss your academic or career concerns.
 </p>
 
-<img src="EMentorIcoia.png" width="400" align="right">
+<img src="ementoricoia.tiff" width="400" align="right">
 
 
 <h2 id="details">Program Details</h2>
